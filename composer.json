@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-db",
+    "name": "dv8-arc/zend-db",
     "description": "Database abstraction layer, SQL abstraction, result set abstraction, and RowDataGateway and TableDataGateway implementations",
     "license": "BSD-3-Clause",
     "keywords": [
